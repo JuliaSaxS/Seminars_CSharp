@@ -66,7 +66,6 @@ int[] CrateRandomArray(int size, int minValue, int maxValue)
     return array;
 }
 
-
 //Метод вывода массива:
 
 void ShowArray(int[] array)
